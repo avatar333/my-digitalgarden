@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life/hobbies/aquariums/new-aquarium-starting-plants/","created":"2024-07-15T22:23:17.200+02:00","updated":"2024-07-16T14:22:28.311+02:00"}
+{"dg-publish":true,"permalink":"/life/hobbies/aquariums/new-aquarium-starting-plants/","created":"2024-07-15T22:23:17.200+02:00","updated":"2024-07-16T19:42:10.231+02:00"}
 ---
 
 - Below is a list of fast growing plants to start with in a new setup, specifically to soak up nutrients quickly, to prevent algae blooms when starting a new tank
@@ -28,3 +28,8 @@
 
 ###### [Juncus Repens](https://www.flowgrow.de/db/aquaticplants/juncus-repens)
 ![Juncus Repens](https://www.flowgrow.de/db/images/aquaticplants/detail/juncus-repens-4f7a0143ddba9.jpg)
+
+---
+
+###### [Hygrophila corymbosa "Stricta"](https://www.aquaticplants.co.za/product-page/hygrophila-corymbosa-stricta)
+![Hygrophila corymbosa "Stricta"](https://static.wixstatic.com/media/3eb7e9_dcde73e6b25d4665b3f65595641b89bf~mv2.jpg/v1/fill/w_500,h_500,al_c,q_80,enc_auto/3eb7e9_dcde73e6b25d4665b3f65595641b89bf~mv2.jpg)
