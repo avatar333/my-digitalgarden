@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life/hobbies/aquariums/setups/2024-juwel-lido-120-low-medium-tech/the-beginning/","tags":["gardenEntry"],"created":"2024-07-16T12:45:02.418+02:00","updated":"2024-07-16T14:02:18.203+02:00"}
+{"dg-publish":true,"permalink":"/life/hobbies/aquariums/setups/2024-juwel-lido-120-low-medium-tech/the-beginning/","created":"2024-07-16T12:45:02.418+02:00","updated":"2024-07-16T14:20:22.584+02:00"}
 ---
 
 
