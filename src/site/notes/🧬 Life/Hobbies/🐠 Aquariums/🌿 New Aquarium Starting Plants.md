@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/life/hobbies/aquariums/new-aquarium-starting-plants/","created":"2024-07-15T22:23:17.200+02:00","updated":"2024-07-16T14:22:28.311+02:00"}
+---
+
+- Below is a list of fast growing plants to start with in a new setup, specifically to soak up nutrients quickly, to prevent algae blooms when starting a new tank
+
+<br>
+
+###### [Pogostemon stellatus "Octopus"](https://www.flowgrow.de/db/aquaticplants/pogostemon-stellatus)
+![Pogostemon stellatus "Octopus"](https://www.flowgrow.de/db/images/aquaticplants/detail/pogostemon-stellatus-4f7a012e1a76d.jpg)
+
+---
+
+###### [Hygrophila difformis (Wisteria)](https://www.flowgrow.de/db/aquaticplants/hygrophila-difformis)
+![Hygrophila difformis (Wisteria)](https://www.flowgrow.de/db/images/aquaticplants/detail/hygrophila-difformis-4f7a01c851ef7.jpg)
+
+---
+
+###### [Ceratopteris thalictroides](https://www.flowgrow.de/db/aquaticplants/ceratopteris-thalictroides)
+![Ceratopteris thalictroides](https://www.flowgrow.de/db/images/aquaticplants/detail/ceratopteris-thalictroides-4f7a01565aa3f.jpg)
+
+---
+
+###### [Hygrophila polysperma](https://www.flowgrow.de/db/aquaticplants/hygrophila-polysperma)
+![https://www.flowgrow.de/db/aquaticplants/hygrophila-polysperma](https://www.flowgrow.de/db/images/aquaticplants/detail/hygrophila-polysperma-4f7a01c8df7f7.jpg)
+
+---
+
+###### [Juncus Repens](https://www.flowgrow.de/db/aquaticplants/juncus-repens)
+![Juncus Repens](https://www.flowgrow.de/db/images/aquaticplants/detail/juncus-repens-4f7a0143ddba9.jpg)
